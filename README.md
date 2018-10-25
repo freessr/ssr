@@ -19,3 +19,14 @@ ss://YWVzLTI1Ni1jZmI6ZG9uZ3RhaXdhbmcuY29t@103.114.161.158:6789#%E8%B4%A6%E5%8F%B
 服务器2:
 
 ss://YWVzLTI1Ni1jZmI6ZG9uZ3RhaXdhbmcuY29t@103.114.161.158:666#%E8%B4%A6%E5%8F%B7%E6%9B%B4%E6%96%B0%E5%9C%B0%E5%9D%80%EF%BC%9A%0A%0Ahttps%3A%2F%2Flazymanl.github.io
+
+
+不在乎年龄和职位，
+
+不在乎所谓的背景。
+
+不分种族，
+
+不分国界。
+
+只有关于技术的彻底交流和分享，https://www.sqlmap.top
